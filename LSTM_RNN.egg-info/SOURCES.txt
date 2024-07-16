@@ -1,0 +1,7 @@
+README.md
+setup.py
+LSTM_RNN.egg-info/PKG-INFO
+LSTM_RNN.egg-info/SOURCES.txt
+LSTM_RNN.egg-info/dependency_links.txt
+LSTM_RNN.egg-info/top_level.txt
+src/__init__.py
